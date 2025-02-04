@@ -1,0 +1,12 @@
+- 👋 Hi, I’m @adhithyanG2003
+- 👀 I’m interested in make hardware project
+- 🌱 I’m currently learning embbeded system
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me in instragram project planners
+- 😄 Pronouns: ...
+- ⚡ Fun fact: A Day on Venus is Longer Than a Year on Venus.
+
+<!---
+adhithyanG2003/adhithyanG2003 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
