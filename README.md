@@ -10,7 +10,7 @@
   <img height="100" width="200" src="https://github.com/adhithyanG2003/web-for-app/blob/a2698da81736f6268217212bfb3a7d1b1d285f9d/project%20planner.jpg">
   <br>
   <br>
-  <img width="20%" src="https://github.com/adhithyanG2003/Dhithyan/blob/da7111e3b6ca9fb65a9fab53afc56d47a9779b54/download.png">  Contact no:+91 96552 60123
+  <img width="3%" src="https://img.icons8.com/?size=100&id=12921&format=png&color=000000">  Contact no:+91 96552 60123
 
 <!---
 adhithyanG2003/adhithyanG2003 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
