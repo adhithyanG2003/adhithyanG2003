@@ -5,7 +5,7 @@
 - 📫 How to reach me in instragram project planners
 - 😄 Pronouns: ...
 - ⚡ Fun fact: A Day on Venus is Longer Than a Year on Venus.
-![image](https://github.com/adhithyanG2003/web-for-app/blob/a2698da81736f6268217212bfb3a7d1b1d285f9d/project%20planner.jpg)
+  <img heifht="40" width="70" src="https://github.com/adhithyanG2003/web-for-app/blob/a2698da81736f6268217212bfb3a7d1b1d285f9d/project%20planner.jpg">
 ![image](https://github.com/adhithyanG2003/Dhithyan/blob/da7111e3b6ca9fb65a9fab53afc56d47a9779b54/download.png) CONTACT NUMBER=9655260123
 
 <!---
